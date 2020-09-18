@@ -2,7 +2,7 @@
 
 ### files added that will help us navigate in our website
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](images/belyse.jpg)
 Format: ![Alt Text](url)
 
 Belyse Uwambayinema
