@@ -2,10 +2,7 @@
 
 ### files added that will help us navigate in our website
 
-![GitHub Logo](images/belyse.jpg)
-Format: ![Alt Text](url)
-
-Belyse Uwambayinema
+![Belyse Uwambayinema](images/belyse.JPG)
 
 Papeprinter Graphics Ltd Services
 
