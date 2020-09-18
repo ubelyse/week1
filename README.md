@@ -6,4 +6,4 @@
 
 ### Papeprinter Graphics Ltd Services
 
-[GitHub](https://github.com/ubelyse/week1)
+[https://github.com/ubelyse/week1]
