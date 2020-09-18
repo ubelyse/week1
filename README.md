@@ -1,6 +1,6 @@
-#Week1
+# Week1
 
-files added that will help us navigate in our website
+### files added that will help us navigate in our website
 
 Belyse Uwambayinema
 
