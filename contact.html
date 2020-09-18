@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+</head>
+<body>
+    <div class="container">
+        <img src="images/logoPapeprinter.png" alt="Papeprinter Graphics Ltd" width="200px" height="200px">
+    </div>
+    <div class="navigations">
+        <a class="active" href="index.html">Home</a>
+        <a href="service.html">Services</a>
+        <a href="contact_us.html">Contact Us</a>
+    </div>
+
+    <h2 id="contactus">CONTACT US </h2>
+    <div class="Contact">
+        <form action="action_page.php">
+      
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+      
+          <label for="country">Country</label>
+          <select id="country" name="country">
+            <option value="australia">Australia</option>
+            <option value="canada">Canada</option>
+            <option value="usa">USA</option>
+            <option value="rwanda">Rwanda</option>
+          </select>
+      
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+      
+          <input type="submit" value="Submit">
+      
+        </form>
+    </div>
+</body>
+</html>
