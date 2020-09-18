@@ -142,3 +142,44 @@ input[type=text], select, textarea {
     color: black;
     text-align: center;
 }
+
+.servdrop {
+    position: relative;
+    display: inline-block;
+}
+
+.servebtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.serve-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.serve-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.serve-content a:hover{
+    background-color: #ddd;
+}
+
+.servdrop:hover  .serve-content{
+    display: block;
+}
+
+.servdrop:hover .servebtn{
+    background-color: #3e8e41;
+}
