@@ -2,8 +2,8 @@
 
 ### Belyse Uwambayinema
 
-![Belyse Uwambayinema](images/belyse.JPG)
+![Belyse Uwambayinema](images/websitescreen.png)
 
 ### Papeprinter Graphics Ltd Services
 
-https://github.com/ubelyse/week1
+This is the live link : https://ubelyse.github.io/week1/
